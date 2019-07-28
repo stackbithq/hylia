@@ -6,6 +6,10 @@ Get started now by **[deploying Hylia to Netlify.][deploy-to-netlify]**
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)][deploy-to-netlify]
 
+Use Hylia with Stackbit to instantly deploy a CMS-powered website. Any CMS supported by Stackbit can be used with Hylia.
+
+[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbithq/hylia)
+
 <img src="https://hankchizljaw.imgix.net/hylia-github.jpg?auto=format&q=60" width="550" />
 
 ## Features
